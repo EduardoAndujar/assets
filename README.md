@@ -1,3 +1,3 @@
 # assets
 
-Repositório apenas para os assets utilizados no github
+Repositório apenas para imagens gerais dos projetos realizados!
